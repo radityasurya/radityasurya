@@ -48,6 +48,11 @@ of the token cost of MCP. All published on npm.
 ## 📝 Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Agent eXperience Interface &lpar;AXI&rpar;: My CLI Was Never Built for My Agents](https://radityasurya.com/blog/my-cli-was-never-built-for-my-agents)
+- [My Lazy Self-Hosting Setup: Where Everything Just Works](https://radityasurya.com/blog/self-hosting-for-lazy-engineers)
+- [My Semi-Industrial Homelab: Why I Keep Work and Play Separate](https://radityasurya.com/blog/my-semi-industrial-homelab)
+- [Make Your Docker Builds Swim Faster](https://radityasurya.com/blog/make-your-docker-builds-swim-faster)
+- [Hyper - A Beautiful Terminal](https://radityasurya.com/blog/hyper-a-beautiful-terminal)
 <!-- BLOG-POST-LIST:END -->
 
 ---
