@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raditya Surya</h1>
+<h1 align="center">Raditya Surya</h1>
 <h3 align="center">Platform Lead & Infrastructure Engineer, based in 🇳🇱 The Netherlands</h3>
 
 <p align="center">
@@ -76,7 +76,7 @@ of the token cost of MCP. All published on npm.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Platform & cloud**
+**Infrastructure & cloud**
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -87,6 +87,7 @@ of the token cost of MCP. All published on npm.
 ![Coolify](https://img.shields.io/badge/Coolify-8C52FF?style=for-the-badge&logo=coolify&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![FinOps](https://img.shields.io/badge/FinOps-0E7490?style=for-the-badge)
 
 **Web**
 
@@ -108,11 +109,11 @@ of the token cost of MCP. All published on npm.
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://stats.radityasurya.com/api?username=radityasurya&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://stats.radityasurya.com/api?username=radityasurya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://stats.radityasurya.com/api/top-langs?username=radityasurya&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages" />
+  <img src="https://stats.radityasurya.com/api/top-langs?username=radityasurya&theme=tokyonight&hide_border=true&layout=compact&card_width=467" alt="Top languages" />
 </p>
 
 <p align="center">
