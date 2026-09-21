@@ -45,6 +45,11 @@ of the token cost of MCP. All published on npm.
 | [**glm-plugin-cc**](https://github.com/radityasurya/glm-plugin-cc) | Delegate work from Claude Code to GLM, with an automatic review gate on every turn |
 | [**scrapai-cli**](https://github.com/radityasurya/scrapai-cli) | Describe what you want scraped, get a production-ready Scrapy spider |
 
+## 📝 Latest posts
+
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
+
 ---
 
 ## 🛠 Stack
