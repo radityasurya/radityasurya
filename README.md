@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raditya Surya</h1>
-<h3 align="center">Platform Lead & Infrastructure Engineer — 🇳🇱 The Netherlands</h3>
+<h3 align="center">Platform Lead & Infrastructure Engineer, based in 🇳🇱 The Netherlands</h3>
 
 <p align="center">
   <a href="https://radityasurya.com"><img src="https://img.shields.io/badge/radityasurya.com-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Website"/></a>
   <a href="https://www.linkedin.com/in/radityasurya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/radityadotid"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://www.instagram.com/radityasurya/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 ---
@@ -14,12 +12,12 @@ I lead a platform team and scale infrastructure for large-scale traffic. Nine ye
 now sits where **platform engineering meets AI**: I build the tooling that coding agents run on,
 and I self-host nearly all of it.
 
-- 🔭 Building **agent-ergonomic CLIs** — command-line tools designed for a model to drive, not a human.
+- 🔭 Building **agent-ergonomic CLIs**. Command-line tools designed for a model to drive, not a human.
 - 🤖 Working on **AI infrastructure**: agent orchestration, model routing, retrieval, and token cost control.
 - 🌱 Writing about infrastructure, self-hosting, homelabs, and agent-facing tooling at [radityasurya.com](https://radityasurya.com).
 - 🏠 Everything runs on my own **Coolify + Cloudflare** stack. No vendor lock-in.
 - 💬 Ask me about **Kubernetes, Terraform, CI/CD, FinOps**, or wiring agents into a real pipeline.
-- 📫 Reach me at [radityasurya.com/contact](https://radityasurya.com/contact) — **open for collaboration**.
+- 📫 Reach me at [radityasurya.com/contact](https://radityasurya.com/contact). **Open for collaboration.**
 
 ---
 
