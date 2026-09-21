@@ -108,8 +108,11 @@ of the token cost of MCP. All published on npm.
 ## 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://stats.radityasurya.com/api?username=radityasurya&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://stats.radityasurya.com/api/top-langs?username=radityasurya&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages" />
+  <img src="https://stats.radityasurya.com/api?username=radityasurya&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://stats.radityasurya.com/api/top-langs?username=radityasurya&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages" />
 </p>
 
 <p align="center">
