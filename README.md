@@ -28,14 +28,14 @@ and I self-host nearly all of it.
 CLIs built to the [AXI spec](https://axi.md): terse output, self-describing help, and a fraction
 of the token cost of MCP. All published on npm.
 
-| Project | What it does |
-|---|---|
-| [**coolify-axi**](https://github.com/radityasurya/coolify-axi) | Drive Coolify apps, databases, services, and deployments |
-| [**cloudflare-axi**](https://github.com/radityasurya/cloudflare-axi) | Zones, DNS, edge cache purging, and Email Routing |
-| [**namecheap-axi**](https://github.com/radityasurya/namecheap-axi) | Domains, DNS records, nameservers, and registrar lock |
-| [**openpanel-axi**](https://github.com/radityasurya/openpanel-axi) | Product analytics reads and event tracking |
-| [**gsc-axi**](https://github.com/radityasurya/gsc-axi) | Google Search Console performance, URL inspection, sitemaps |
-| [**axi-plugins**](https://github.com/radityasurya/axi-plugins) | Plugin marketplace that installs the whole AXI family at once |
+| Project | What it does | Installs |
+|---|---|---|
+| [**coolify-axi**](https://github.com/radityasurya/coolify-axi) | Drive Coolify apps, databases, services, and deployments | ![](https://img.shields.io/npm/dm/coolify-axi?style=flat-square&color=CB3837&logo=npm&logoColor=white&label=) |
+| [**cloudflare-axi**](https://github.com/radityasurya/cloudflare-axi) | Zones, DNS, edge cache purging, and Email Routing | ![](https://img.shields.io/npm/dm/cloudflare-axi?style=flat-square&color=CB3837&logo=npm&logoColor=white&label=) |
+| [**namecheap-axi**](https://github.com/radityasurya/namecheap-axi) | Domains, DNS records, nameservers, and registrar lock | ![](https://img.shields.io/npm/dm/namecheap-axi?style=flat-square&color=CB3837&logo=npm&logoColor=white&label=) |
+| [**openpanel-axi**](https://github.com/radityasurya/openpanel-axi) | Product analytics reads and event tracking | ![](https://img.shields.io/npm/dm/openpanel-axi?style=flat-square&color=CB3837&logo=npm&logoColor=white&label=) |
+| [**gsc-axi**](https://github.com/radityasurya/gsc-axi) | Google Search Console performance, URL inspection, sitemaps | ![](https://img.shields.io/npm/dm/gsc-axi?style=flat-square&color=CB3837&logo=npm&logoColor=white&label=) |
+| [**axi-plugins**](https://github.com/radityasurya/axi-plugins) | Plugin marketplace that installs the whole AXI family at once | |
 
 ### AI workflow
 
