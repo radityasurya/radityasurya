@@ -47,8 +47,8 @@ of the token cost of MCP. All published on npm.
 
 ## 📝 Latest posts
 
-<!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
